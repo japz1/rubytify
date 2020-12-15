@@ -4,7 +4,7 @@ one:
   name: MyString
   image: MyString
   spotify_url: MyString
-  total_tracks: 
+  total_tracks: 1
   spotify_id: MyString
   artist: one
 
@@ -12,6 +12,6 @@ two:
   name: MyString
   image: MyString
   spotify_url: MyString
-  total_tracks: 
+  total_tracks: 1
   spotify_id: MyString
   artist: two

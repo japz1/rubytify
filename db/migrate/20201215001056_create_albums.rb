@@ -4,7 +4,7 @@ class CreateAlbums < ActiveRecord::Migration[6.1]
       t.string :name
       t.string :image
       t.string :spotify_url
-      t.interger :total_tracks
+      t.integer :total_tracks
       t.string :spotify_id
       t.references :artist, null: false, foreign_key: true
 
